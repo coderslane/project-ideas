@@ -1,4 +1,4 @@
-#Android
-  Tic Tac Toe Game
-  Stopwatch
-  
+# Android
+* Stopwatch
+* TicTacToe Game
+* Food App
