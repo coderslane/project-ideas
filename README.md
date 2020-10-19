@@ -11,7 +11,7 @@
 ### How to create pull requests (PRs)?
   1. Sign up or sign in to your <a href="https://github.com/"> Github </a> account.
   2. Register yourself at <a href="https://hacktoberfest.digitalocean.com/"> Hactoberfest 2020 </a> using your Github account.
-  3. Come back to this <a href="https://github.com/Cullyege/Hacktoberfest2020"> Hacktoberfest repo</a>.
+  3. Come back to this <a href="https://github.com/coderslane/project-ideas"> Hacktoberfest repo</a>.
   4. Click on Fork.
   5. Add your project idea.
   
